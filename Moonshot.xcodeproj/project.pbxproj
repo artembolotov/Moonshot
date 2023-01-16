@@ -19,6 +19,7 @@
 		AB9CB86B2970099C005BE3EA /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9CB86A2970099C005BE3EA /* Color-Theme.swift */; };
 		AB9CB86D297063B1005BE3EA /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9CB86C297063B1005BE3EA /* MissionView.swift */; };
 		AB9CB86F29727B9D005BE3EA /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9CB86E29727B9D005BE3EA /* AstronautView.swift */; };
+		AB9CB8712973C19F005BE3EA /* RectangleDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9CB8702973C19F005BE3EA /* RectangleDivider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		AB9CB86A2970099C005BE3EA /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		AB9CB86C297063B1005BE3EA /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		AB9CB86E29727B9D005BE3EA /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		AB9CB8702973C19F005BE3EA /* RectangleDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleDivider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				AB9CB868296FF51C005BE3EA /* Mission.swift */,
 				AB9CB866296FEDDB005BE3EA /* Bundle-Decodable.swift */,
 				AB9CB86A2970099C005BE3EA /* Color-Theme.swift */,
+				AB9CB8702973C19F005BE3EA /* RectangleDivider.swift */,
 				AB9CB861296FE0BC005BE3EA /* astronauts.json */,
 				AB9CB860296FE0BC005BE3EA /* missions.json */,
 				AB9CB856296E7A12005BE3EA /* Assets.xcassets */,
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB9CB86D297063B1005BE3EA /* MissionView.swift in Sources */,
+				AB9CB8712973C19F005BE3EA /* RectangleDivider.swift in Sources */,
 				AB9CB865296FE3CC005BE3EA /* Astronaut.swift in Sources */,
 				AB9CB86F29727B9D005BE3EA /* AstronautView.swift in Sources */,
 				AB9CB86B2970099C005BE3EA /* Color-Theme.swift in Sources */,
