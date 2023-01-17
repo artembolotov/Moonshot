@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State private var currentLayout = ViewLayout.list
+    @State private var currentLayout = ViewLayout.grid
     
     let astronauts: [String: Astronaut] = Bundle.main.decode("astronauts.json")
     let missons: [Mission] = Bundle.main.decode("missions.json")
